@@ -1,6 +1,6 @@
 {
 "verAddr":"http://187.127.13.117:1103/",
 "skipResourceDownload":false,
-"fakeVersion":"3.0",
+"fakeVersion":"2.0",
 "resetGuest":true
 }
